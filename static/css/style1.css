@@ -1,0 +1,242 @@
+.bgimg{
+
+	background-image: url('../imgs/body1.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 640px;
+
+}
+
+.hearderset{
+	padding-top: 250px;
+	box-sizing: border-box;
+
+}
+
+.hearderset h2{
+	font-size: 38px;
+}
+
+
+.hearderset h1{
+	font-size: 42px;
+	font-weight: bold;
+
+}
+
+/*
+....................Community............................*/
+
+ 
+ .community{
+ 	padding: 100px 0px 60px;
+ 	height: 700px;
+
+ }
+ .community h1{
+ 	font size: 50px;
+ 	font-weight: bold;
+ }
+ .rowsetting{
+ 	margin: 80px 0px;
+ }
+
+ .imgsetting{
+ 	border-radius: 50%;
+ 	height: 100px;
+ 	width: 100px;
+ }
+
+.fa-users{
+	margin-top: 23px;
+}
+
+/*///////////////////////////NEWS////////////////////////////*/
+
+
+.news{
+	height: 1400px !important;
+	width: 100%;
+	padding: 125px 0px 50px;
+}
+
+.news h1{
+
+	font-size: 50px;
+	font-weight: bold;
+
+}
+
+.card{
+	margin-top: 40px;
+}
+
+
+/*/////////////////////////////////////TEAM///////////////////////////////////////*/
+.footer{
+	margin-top: 65px;
+	font-weight: bold;
+	padding-top: 220px;
+}
+
+/*////////////////footer//////////////*/
+
+.foot{
+	height: 50px;
+}
+
+.foot h6{
+	line-height: 50px;
+}
+
+
+/*////////////////responsive////////////*/
+
+
+@media(min-width: 992px){
+
+}
+
+
+
+@media(min-width: 768px) and (max-width: 991px){
+	.bgimg{
+
+	background-image: url('../imgs/body1.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 640px;
+}
+
+    .hearderset h2{
+	font-size: 22px;
+   }
+
+
+.hearderset h1{
+	font-size: 22px;
+	font-weight: bold;
+
+}
+
+.community{
+ 	
+ 	height: 800px;
+
+ }
+
+ .imgsetting{
+ 	border-radius: 50%;
+ 	height: 100px;
+ 	width: 100px;
+ }
+ 
+.card{
+	margin-top: 40px;
+}
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+
+}
+
+@media(min-width: 480px) and (max-width: 574px){
+
+.bgimg{
+
+	background-image: url('../imgs/body1.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 640px;
+}
+
+    .hearderset h2{
+	font-size: 22px;
+   }
+
+
+.hearderset h1{
+	font-size: 22px;
+	font-weight: bold;
+
+}
+
+.community{
+ 	
+ 	height: 1500px;
+
+ }
+
+ .imgsetting{
+ 	border-radius: 50%;
+ 	height: 100px;
+ 	width: 100px;
+ }
+ 
+.card{
+	margin-top: 40px;
+}
+
+.news{
+
+	padding-top: 20px;
+}
+
+.footer{
+	padding-top: 2000px;
+}
+
+}
+
+@media(max-width: 479px){
+
+	.bgimg{
+
+	background-image: url('../imgs/body1.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 640px;
+}
+
+    .hearderset h2{
+	font-size: 22px;
+   }
+
+
+.hearderset h1{
+	font-size: 22px;
+	font-weight: bold;
+
+}
+
+.community{
+ 	
+ 	height: 1500px;
+
+ }
+
+ .imgsetting{
+ 	border-radius: 50%;
+ 	height: 100px;
+ 	width: 100px;
+ }
+ 
+.card{
+	margin-top: 40px;
+}
+
+.news{
+
+	padding-top: 500px;
+}
+
+.footer{
+	padding-top: 3300px;
+}
+}
+
