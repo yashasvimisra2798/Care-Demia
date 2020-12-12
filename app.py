@@ -5,7 +5,7 @@ from flask import Flask, request, render_template
 import numpy.random._pickle
 
 app = Flask(__name__,template_folder='templates/')
-model = pickle.load(open('model/model.pkl','rb'))
+model = pickle.load(open('Model/model.pkl','rb'))
 
 @app.route('/')
 def careDemia():
