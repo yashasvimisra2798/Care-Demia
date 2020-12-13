@@ -37,11 +37,11 @@ Fill in the relevant details and click on the Result button
 ----------------------------------------------------------------------------------------
 <img src= https://github.com/yashasvimisra2798/Care-Demia/blob/main/images/News.PNG>
 
-
+---
 
 ### Deployment ###
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+---
 
 ### Made by ###
 <table>
@@ -51,3 +51,5 @@ Fill in the relevant details and click on the Result button
   </tr>
   </table>
 
+---
+If you found this repo useful, please ⭐ the repo.
